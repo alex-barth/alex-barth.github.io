@@ -1,5 +1,7 @@
 # Some h1 title
 
+This is a website for the openHPI course Let's Git
+[Repository Link](https://github.com/alex-barth/alex-barth.github.io)
 This should be some description, but im too tired to think of anything now. So I will just write this placeholder text. The issue said 30 to 50 words, so I have to continue to write some more. This should be enough.
 
 ## h2 subheader
