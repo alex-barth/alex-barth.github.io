@@ -15,3 +15,6 @@ This is a blockquote:
 > doing some git course online in my freetime
 > enjoying it
 > mfw 
+
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbraedenetienne.files.wordpress.com%2F2015%2F10%2Fyou-pc-bro.png&f=1&nofb=1" />
