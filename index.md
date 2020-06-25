@@ -7,3 +7,11 @@ This should be some description, but im too tired to think of anything now. So I
 * Independent
 * Woman
 * :^)
+
+This is a blockquote:
+
+> be me
+> be 27
+> doing some git course online in my freetime
+> enjoying it
+> mfw 
